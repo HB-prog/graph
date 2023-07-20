@@ -3,7 +3,7 @@ def manhattan_distance(cd1:list, cd2:list):
     distance = 0
     for n in range(len(cd1)):
         # sum distances
-        distance = distance + abs(cd1[n]-cd2[n])
+        distance += abs(cd1[n]-cd2[n])
     return distance
 
 # example
