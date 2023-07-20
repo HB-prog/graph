@@ -1,2 +1,1 @@
-# graph
-그래프가 같은지 다른지 판단하는 코드
+# Geomtric algorithms
